@@ -72,7 +72,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/greg052203">
                     <img src="https://avatars.githubusercontent.com/u/172504666?v=4" width="100px;" alt="Greg Rejuso"/>
                     <br />
-                    <sub><b>Greg Rejuso</b></sub>
+                    <sub><b>Greg</b></sub>
                 </a>
             </td>
             <td align="center">
